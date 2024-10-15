@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ph41852_assignment2Tests : XCTestCase
+@interface CROASMTests : XCTestCase
 
 @end
 
-@implementation ph41852_assignment2Tests
+@implementation CROASMTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

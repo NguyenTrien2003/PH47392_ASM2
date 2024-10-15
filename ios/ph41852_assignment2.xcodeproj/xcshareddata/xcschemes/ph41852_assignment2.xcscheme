@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ph41852_assignment2.app"
-               BlueprintName = "ph41852_assignment2"
-               ReferencedContainer = "container:ph41852_assignment2.xcodeproj">
+               BuildableName = "CROASM.app"
+               BlueprintName = "CROASM"
+               ReferencedContainer = "container:CROASM.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ph41852_assignment2Tests.xctest"
-               BlueprintName = "ph41852_assignment2Tests"
-               ReferencedContainer = "container:ph41852_assignment2.xcodeproj">
+               BuildableName = "CROASMTests.xctest"
+               BlueprintName = "CROASMTests"
+               ReferencedContainer = "container:CROASM.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ph41852_assignment2.app"
-            BlueprintName = "ph41852_assignment2"
-            ReferencedContainer = "container:ph41852_assignment2.xcodeproj">
+            BuildableName = "CROASM.app"
+            BlueprintName = "CROASM"
+            ReferencedContainer = "container:CROASM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ph41852_assignment2.app"
-            BlueprintName = "ph41852_assignment2"
-            ReferencedContainer = "container:ph41852_assignment2.xcodeproj">
+            BuildableName = "CROASM.app"
+            BlueprintName = "CROASM"
+            ReferencedContainer = "container:CROASM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

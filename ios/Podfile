@@ -25,7 +25,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'ph41852_assignment2' do
+target 'CROASM' do
   config = use_native_modules!
 
   use_react_native!(
@@ -39,7 +39,7 @@ target 'ph41852_assignment2' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'ph41852_assignment2Tests' do
+  target 'CROASMTests' do
     inherit! :complete
     # Pods for testing
   end
