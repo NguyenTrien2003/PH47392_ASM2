@@ -155,6 +155,7 @@ const st = StyleSheet.create({
   },
   container: {
     flex: 1,
+    marginTop: 30,
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -163,8 +164,9 @@ const st = StyleSheet.create({
     marginRight: 20,
   },
   logo: {
-    width: 420,
-    height: 280,
+    width: 150,
+    height: 150,
+    borderRadius: 50,
   },
   text1: {
     fontSize: 18,

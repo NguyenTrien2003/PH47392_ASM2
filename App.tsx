@@ -13,10 +13,10 @@ const App = () => {
     <NavigationContainer>
       <Stack.Navigator
         screenOptions={{headerShown: false}}
-        initialRouteName="Home">
-        <Stack.Screen name="Home" component={Tabnavigation} />
+        initialRouteName="Login">
         <Stack.Screen name="Login" component={Login} />
         <Stack.Screen name="Signin" component={Signin} />
+        <Stack.Screen name="Home" component={Tabnavigation} />
       </Stack.Navigator>
     </NavigationContainer>
   );

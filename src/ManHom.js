@@ -27,7 +27,7 @@ const ManHom = () => {
   const [dssp, setdssp] = useState([]);
   const [isLoading1, setisLoading1] = useState(true);
   const [dscategory, setdscategory] = useState([]);
-  const [numColumns, setnumColumns] = useState(2);
+  const [numColumns, setnumColumns] = useState(1);
 
   const navigation = useNavigation();
 
@@ -77,9 +77,7 @@ const ManHom = () => {
 
   //
   const renderCategory = ({item}) => {
-    const limitedData = dssp
-      .filter(product => product.id_category === item.id)
-      .slice(0, 4);
+    const limitedData = dssp.filter(product => product.id_category === item.id);
     return (
       <View key={item.id}>
         <Text style={st.text1}>{item.name}</Text>
@@ -87,7 +85,7 @@ const ManHom = () => {
           <ActivityIndicator />
         ) : (
           <FlatList
-            vertical
+            horizontal
             numColumns={numColumns}
             data={limitedData}
             keyExtractor={item => item.id}
