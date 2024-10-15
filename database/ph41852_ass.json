@@ -1,0 +1,251 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Trien",
+      "email": "trien@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2c0b",
+      "name": "abc",
+      "email": "trien1@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "17e6",
+      "name": "Trien",
+      "email": "trien12@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "3a55",
+      "name": "Tai",
+      "email": "tai@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "3e84",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "categorys": [
+    {
+      "id": "1",
+      "name": "Cây trồng"
+    },
+    {
+      "id": "2",
+      "name": "Chậu cây"
+    },
+    {
+      "id": "3",
+      "name": "Công cụ"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/chau1.png",
+      "name": "Sản phẩm 1",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "2",
+      "gia": "4.6"
+    },
+    {
+      "id": "2",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/tree1.png",
+      "name": "Sản phẩm 2",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "1",
+      "gia": "4.2"
+    },
+    {
+      "id": "3",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/chau2.png",
+      "name": "Sản phẩm 3",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "2",
+      "gia": "4.5"
+    },
+    {
+      "id": "4",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/pk1.png",
+      "name": "Sản phẩm 4",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "3",
+      "gia": "4.7"
+    },
+    {
+      "id": "5",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/pk2.png",
+      "name": "Sản phẩm 5",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "3",
+      "gia": "4.2"
+    },
+    {
+      "id": "6",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/chau3.png",
+      "name": "Sản phẩm 6",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "2",
+      "gia": "4.2"
+    },
+    {
+      "id": "7",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/tree2.png",
+      "name": "Sản phẩm 7",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "1",
+      "gia": "4.2"
+    },
+    {
+      "id": "8",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/pk3.png",
+      "name": "Sản phẩm 8",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "3",
+      "gia": "4.2"
+    },
+    {
+      "id": "9",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/chau4.png",
+      "name": "Sản phẩm 9",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "2",
+      "gia": "4.2"
+    },
+    {
+      "id": "10",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/tree3.png",
+      "name": "Sản phẩm 10",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "1",
+      "gia": "4.2"
+    },
+    {
+      "id": "11",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/pk4.png",
+      "name": "Sản phẩm 11",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "3",
+      "gia": "4.2"
+    },
+    {
+      "id": "12",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/tree4.png",
+      "name": "Sản phẩm 12",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "1",
+      "gia": "4.2"
+    },
+    {
+      "id": "13",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/chau5.png",
+      "name": "Sản phẩm 13",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "2",
+      "gia": "4.2"
+    },
+    {
+      "id": "14",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/tree5.png",
+      "name": "Sản phẩm 14",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "1",
+      "gia": "4.2"
+    },
+    {
+      "id": "18",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/tree6.png",
+      "name": "Sản phẩm 14",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "1",
+      "gia": "4.2"
+    },
+    {
+      "id": "15",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/chau6.png",
+      "name": "Sản phẩm 15",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "2",
+      "gia": "4.2"
+    },
+    {
+      "id": "16",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/pk5.png",
+      "name": "Sản phẩm 16",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "3",
+      "gia": "4.2"
+    },
+    {
+      "id": "17",
+      "rate": "4.5",
+      "hinhanh": "http://10.0.2.2:3000/img/pk6.png",
+      "name": "Sản phẩm 16",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "id_category": "3",
+      "gia": "4.2"
+    }
+  ],
+  "carts": [
+    {
+      "hinhanh": "http://10.0.2.2:3000/img/pk1.png",
+      "name": "Sản phẩm 4",
+      "gia": "4.7",
+      "quantity": 4,
+      "id_product": "4",
+      "id": "085d"
+    },
+    {
+      "hinhanh": "http://10.0.2.2:3000/img/pk2.png",
+      "name": "Sản phẩm 5",
+      "gia": "4.2",
+      "quantity": 3,
+      "id_product": "5",
+      "id": "a02e"
+    },
+    {
+      "id": "1963",
+      "hinhanh": "http://10.0.2.2:3000/img/tree3.png",
+      "name": "Sản phẩm 10",
+      "gia": "4.2",
+      "quantity": 1,
+      "id_product": "10"
+    }
+  ],
+  "orders": [],
+  "favorites": [
+    {
+      "id": "2810",
+      "hinhanh": "http://10.0.2.2:3000/img/tree1.png",
+      "name": "Sản phẩm 2",
+      "gia": "4.2",
+      "tenhang": "Size 7.60 fl oz/225ml",
+      "rate": "4.5",
+      "id_product": "2"
+    }
+  ],
+  "contacts": []
+}
